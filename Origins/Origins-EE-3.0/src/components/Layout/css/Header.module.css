@@ -1,0 +1,11 @@
+/* Header */
+.header {
+    background-color: var(--primary-color);
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
